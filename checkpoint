@@ -1,0 +1,2 @@
+model_checkpoint_path: "D:\\Programacao\\Python\\PyCharm-Projetos\\ImageClassification\\dogsvscats-0.001-6conv-basic-video.model"
+all_model_checkpoint_paths: "D:\\Programacao\\Python\\PyCharm-Projetos\\ImageClassification\\dogsvscats-0.001-6conv-basic-video.model"
